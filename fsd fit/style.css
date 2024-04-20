@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0;
+ }
+.nav{
+    background-color: black;
+    color: white;
+    display:flex;
+    list-style-type: none;
+    ;
+    
+    align-items: center;
+    
+}
+.navel{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: white;
+    text-decoration: none;
+}
+.backpos{
+    background-image: url("../images/backposter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid white;
+    margin-top: 0px;
+    padding: 0px;
+}
+.bannertext{
+    font-size: 50px;
+    color: whitesmoke;
+    padding: 200px;
+    background-image:url("../images/backposter.jpg") ;
+}
+.heal{
+    background-image: url("/images/health.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 250px 70px 250px;
+    margin: 20px;
+    margin-left: 10%;
+    border: 1px solid white;
+    border-radius: 20px;
+    
+}
+.fit{
+    background-image: url("/images/fitness (1).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    margin-left: 10%;
+    border: 1px solid white;
+    border-radius: 20px;
+    
+    padding: 100px 250px 70px 250px;
+    
+
+}
